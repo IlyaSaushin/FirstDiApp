@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiTest1</string>
+    <string name="test_string">its gone</string>
+    <string name="whom_to_show">Кого показать?</string>
+    <string name="cat_button">Кошку</string>
+    <string name="dog_button">Собаку</string>
+</resources>
